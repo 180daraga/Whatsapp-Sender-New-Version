@@ -1,0 +1,4 @@
+#Mon Feb 28 20:56:58 EET 2022
+base.0=C\:\\Users\\ziadw\\OneDrive\\Desktop\\whatsapp-sender-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

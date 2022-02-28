@@ -1,0 +1,6 @@
+2022/02/28-20:37:36.555 4db8 Reusing MANIFEST C:\Users\ziadw\AppData\Local\Temp\flutter_tools.7afe13c1\flutter_tools_chrome_device.3f094558\Default\Local Storage\leveldb/MANIFEST-000001
+2022/02/28-20:37:36.555 4db8 Recovering log #3
+2022/02/28-20:37:36.556 4db8 Reusing old log C:\Users\ziadw\AppData\Local\Temp\flutter_tools.7afe13c1\flutter_tools_chrome_device.3f094558\Default\Local Storage\leveldb/000003.log 
+2022/02/28-20:55:17.074 2630 Level-0 table #5: started
+2022/02/28-20:55:17.080 2630 Level-0 table #5: 10683 bytes OK
+2022/02/28-20:55:17.084 2630 Delete type=0 #3

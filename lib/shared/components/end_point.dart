@@ -1,0 +1,1 @@
+const GetNumbers = 'api/events/summercamp';

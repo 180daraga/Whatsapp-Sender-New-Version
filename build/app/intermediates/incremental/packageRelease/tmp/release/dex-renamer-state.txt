@@ -1,0 +1,4 @@
+#Mon Feb 28 21:01:54 EET 2022
+base.0=C\:\\Users\\ziadw\\OneDrive\\Desktop\\whatsapp-sender-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
